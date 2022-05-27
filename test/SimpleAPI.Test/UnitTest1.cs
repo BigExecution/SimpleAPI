@@ -23,8 +23,7 @@ public class UnitTest1
         }
         
 
-        //Assert.Equal(5, result);
-        Assert.Equal(2, result);
+        Assert.Equal(5, result);
     }
     
 }
